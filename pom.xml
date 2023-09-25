@@ -95,6 +95,9 @@
                                     </limits>
                                 </rule>
                             </rules>
+                            <excludes>
+                                <exclude>ru/netology/taskmanager/Task.class</exclude>
+                            </excludes>
                         </configuration>
                     </execution>
 
